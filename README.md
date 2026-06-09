@@ -5,7 +5,7 @@
 Analyzed network packet captures across HTTP, DNS, Telnet, and TCP traffic using Wireshark. Applied targeted display filters to identify security issues and documented findings in a structured incident report.
 
 ## Files
-- Network_Analysis_Report_Vishwaa.pdf — Full incident report with findings and recommendations
+- Network_Analysis_Report.pdf — Full incident report with findings and recommendations
 - Screenshots — Evidence screenshots from Wireshark analysis
 
 ## Tools Used
